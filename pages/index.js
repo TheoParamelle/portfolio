@@ -262,7 +262,7 @@ export default function Home({ project }) {
 
           <p className="job-title">
             <span className="text-reveal">
-              Alexander Grattan / Software Developer
+              Théo Paramelle / Software Developer
             </span>
           </p>
           <button className="scroll-indicator" onClick={executeScroll}>
@@ -359,7 +359,7 @@ export default function Home({ project }) {
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.9 }}
-                title="Download Alexander's Resume"
+                title="Download Théo's Resume"
               >
                 Resume
               </motion.a>
@@ -371,7 +371,7 @@ export default function Home({ project }) {
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                title="Go to Alexander's GitHub"
+                title="Go to Théo's GitHub"
               >
                 <FontAwesomeIcon icon={faGithub} size="2x" />
                 <span className="footer-hidden-text">GitHub</span>
@@ -384,7 +384,7 @@ export default function Home({ project }) {
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.9 }}
-                title="Connect with Alexander on LinkedIn"
+                title="Connect with Théo on LinkedIn"
               >
                 <FontAwesomeIcon icon={faLinkedin} size="2x" />
                 <span className="footer-hidden-text">GitHub</span>
@@ -392,7 +392,7 @@ export default function Home({ project }) {
             </li>
             <li>
               <motion.a
-                href="https://twitter.com/agrattan0820"
+                href="https://twitter.com/latet_s"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
