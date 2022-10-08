@@ -73,7 +73,7 @@ export default function Project({ projectObject }) {
               </li>
               <li>
                 <motion.a
-                  href="https://github.com/GameDog9988"
+                  href="https://github.com/TheoParamelle"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}
