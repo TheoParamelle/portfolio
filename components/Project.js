@@ -36,12 +36,12 @@ export default function Project({ children, pageTitle, description }) {
       <nav className="project-nav">
         <div className="space-between">
           <Link href="/">
-            <div className="logo">AG</div>
+            <div className="logo">TP</div>
           </Link>
           <ul className="nav-list">
             <li>
               <motion.a
-                href="/Alexander_Grattan_Resume.pdf"
+                href="/Théo_Paramelle.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
@@ -52,7 +52,7 @@ export default function Project({ children, pageTitle, description }) {
             </li>
             <li>
               <motion.a
-                href="https://github.com/GameDog9988"
+                href="https://github.com/ThéoParamelle"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
@@ -63,7 +63,7 @@ export default function Project({ children, pageTitle, description }) {
             </li>
             <li>
               <motion.a
-                href="https://www.linkedin.com/in/alexander-grattan/"
+                href="https://fr.linkedin.com/in/théo-paramelle-21137219a"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
