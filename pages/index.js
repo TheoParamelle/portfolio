@@ -188,7 +188,7 @@ export default function Home({ project }) {
           name="description"
           content="Website for Théo Paramelle"
         ></meta>
-        <meta property="og:url" content="https://agrattan.com/" />
+        <meta property="og:url" content="https://portfolio-theoparamelle.vercel.app" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />
         <meta property="og:image" content="/agrattan_OG.png" />
