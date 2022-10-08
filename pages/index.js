@@ -219,7 +219,7 @@ export default function Home({ project }) {
                 </li>
                 <li>
                   <motion.a
-                    href="https://github.com/GameDog9988"
+                    href="https://github.com/TheoParamelle"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.05 }}
@@ -232,7 +232,7 @@ export default function Home({ project }) {
                 </li>
                 <li>
                   <motion.a
-                    href="https://www.linkedin.com/in/theo-paramelle/"
+                    href="www.linkedin.com/in/théo-paramelle"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.05 }}
