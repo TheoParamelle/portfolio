@@ -186,13 +186,13 @@ export default function Home({ project }) {
         <meta charSet="utf-8" />
         <meta
           name="description"
-          content="Website for Alexander Grattan, a software developer studying Digital Narrative and Interactive Design at the University of Pittsburgh. Skilled with React, Gatsby, Next.js, JavaScript, TypeScript, Java, Python, TailwindCSS, Sass, Node.js, Django, and GSAP."
+          content="Website for Théo Paramelle"
         ></meta>
         <meta property="og:url" content="https://agrattan.com/" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />
         <meta property="og:image" content="/agrattan_OG.png" />
-        <title>Alexander Grattan | Software Developer</title>
+        <title>Théo Paramelle | Software Developer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {animationComplete === false && <IntroOverlay />}
@@ -212,7 +212,7 @@ export default function Home({ project }) {
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.1 }}
                     whileTap={{ scale: 0.9 }}
-                    title="Download Alexander's Resume"
+                    title="Download Théo's Resume"
                   >
                     Resume
                   </motion.a>
@@ -224,7 +224,7 @@ export default function Home({ project }) {
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
-                    title="Go to Alexander's GitHub"
+                    title="Go to Théo's GitHub"
                   >
                     <FontAwesomeIcon icon={faGithub} size="2x" />
                     <span className="header-hidden-text">GitHub</span>
@@ -232,12 +232,12 @@ export default function Home({ project }) {
                 </li>
                 <li>
                   <motion.a
-                    href="https://www.linkedin.com/in/alexander-grattan/"
+                    href="https://www.linkedin.com/in/theo-paramelle/"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
-                    title="Connect with Alexander on LinkedIn"
+                    title="Connect with Théo on LinkedIn"
                   >
                     <FontAwesomeIcon icon={faLinkedin} size="2x" />
                     <span className="header-hidden-text">LinkedIn</span>
