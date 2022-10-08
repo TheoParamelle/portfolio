@@ -201,7 +201,7 @@ export default function Home({ project }) {
           <nav className="home-nav">
             <div className="space-between">
               <Link href="/">
-                <div className="logo">AG</div>
+                <div className="logo">TP</div>
               </Link>
 
               <ul className="nav-list">
