@@ -49,7 +49,7 @@ export default function Project({ projectObject }) {
         />
         <meta property="og:locale" content="en" />
         <meta property="og:image" content="/agrattan_OG.png" />
-        <title>{projectObject?.name} | Alexander Grattan</title>
+        <title>{projectObject?.name} | Théo Paramelle</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <header>
@@ -86,7 +86,7 @@ export default function Project({ projectObject }) {
               </li>
               <li>
                 <motion.a
-                  href="https://www.linkedin.com/in/alexander-grattan/"
+                  href="https://www.linkedin.com/in/theo-paramelle/"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}
