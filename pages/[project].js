@@ -45,11 +45,11 @@ export default function Project({ projectObject }) {
         <meta property="og:type" content="website" />
         <meta
           property="og:site_name"
-          content="Alexander Grattan | Software Developer"
+          content="Théo Paramelle | Software Developer"
         />
         <meta property="og:locale" content="en" />
         <meta property="og:image" content="/agrattan_OG.png" />
-        <title>{projectObject?.name} | Alexander Grattan</title>
+        <title>{projectObject?.name} | Théo Paramelle</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <header>
