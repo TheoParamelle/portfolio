@@ -23,7 +23,7 @@ export const projectsList = [
     project: "pollock-is-shit",
     tools: ["React/Next.js", "Tailwind CSS", "p5.js"],
   },
-  {
+  /*{
     id: 3,
     name: "Belly Button Chrome Extension",
     description:
@@ -150,4 +150,5 @@ export const projectsList = [
   //   page: "https://github.com/GameDog9988/Tiny-Jims-Smokehouse",
   //   tools: ["HTML", "CSS", "JavaScript", "Google Maps API"],
   // },
+  */
 ];
