@@ -66,7 +66,7 @@ export default function Project({ projectObject }) {
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  title="Download Alexander's Resume"
+                  title="Download Théo's Resume"
                 >
                   Resume
                 </motion.a>
@@ -78,7 +78,7 @@ export default function Project({ projectObject }) {
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  title="Go to Alexander's GitHub"
+                  title="Go to Théo's GitHub"
                 >
                   <FontAwesomeIcon icon={faGithub} size="2x" />
                   <span className="header-hidden-text">GitHub</span>
@@ -91,7 +91,7 @@ export default function Project({ projectObject }) {
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  title="Connect with Alexander on LinkedIn"
+                  title="Connect with Théo on LinkedIn"
                 >
                   <FontAwesomeIcon icon={faLinkedin} size="2x" />
                   <span className="header-hidden-text">LinkedIn</span>
