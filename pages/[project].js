@@ -56,12 +56,12 @@ export default function Project({ projectObject }) {
         <nav className="project-nav">
           <div className="space-between">
             <Link href={`/?project=${projectObject.project}`}>
-              <div className="logo">AG</div>
+              <div className="logo">TP</div>
             </Link>
             <ul className="nav-list">
               <li>
                 <motion.a
-                  href="https://drive.google.com/file/d/1PgvpHThs5XjTwGZgib9ZTVLa8QbhulWp/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1g8cgMF3c1IP18-GT_qQRoyFL6_8jQCIi/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}
@@ -86,7 +86,7 @@ export default function Project({ projectObject }) {
               </li>
               <li>
                 <motion.a
-                  href="https://www.linkedin.com/in/alexander-grattan/"
+                  href="https://fr.linkedin.com/in/théo-paramelle-21137219a"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}
