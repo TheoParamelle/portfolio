@@ -40,7 +40,7 @@ export default function Project({ projectObject }) {
         ></meta>
         <meta
           property="og:url"
-          content={`https://agrattan.com/${projectObject.project}`}
+          content={`https://portfolio-theoparamelle.vercel.app/${projectObject.project}`}
         />
         <meta property="og:type" content="website" />
         <meta

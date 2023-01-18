@@ -207,7 +207,7 @@ export default function Home({ project }) {
               <ul className="nav-list">
                 <li>
                   <motion.a
-                    href="https://drive.google.com/file/d/1DwzcQdQBEBd8UK4sqtFkCseZz6215BxK/view"
+                    href="https://drive.google.com/file/d/1CNIQy3iCQDgrR_uUuhe7XNP7LemzcFgp/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.1 }}
@@ -232,7 +232,7 @@ export default function Home({ project }) {
                 </li>
                 <li>
                   <motion.a
-                    href="https://fr.linkedin.com/in/théo-paramelle-21137219a"
+                    href="https://fr.linkedin.com/in/théo-paramelle"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.05 }}
@@ -354,7 +354,7 @@ export default function Home({ project }) {
           <ul className="footer-links">
             <li>
               <motion.a
-                href="https://drive.google.com/file/d/1DwzcQdQBEBd8UK4sqtFkCseZz6215BxK/view"
+                href="https://drive.google.com/file/d/1CNIQy3iCQDgrR_uUuhe7XNP7LemzcFgp/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
@@ -379,7 +379,7 @@ export default function Home({ project }) {
             </li>
             <li>
               <motion.a
-                href="https://fr.linkedin.com/in/théo-paramelle-21137219a"
+                href="https://fr.linkedin.com/in/théo-paramelle"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
@@ -397,7 +397,7 @@ export default function Home({ project }) {
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                title="Follow Alexander on Twitter"
+                title="Follow Latets on Twitter"
               >
                 <FontAwesomeIcon icon={faTwitter} size="2x" />
                 <span className="footer-hidden-text">Twitter</span>
