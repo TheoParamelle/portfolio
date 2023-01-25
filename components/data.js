@@ -13,7 +13,7 @@ export const projectsList = [
   },
   {
     id: 2,
-    name: "Portfolio personnel",
+    name: "Portfolio",
     description:
         "My portfolio website",
     image: "/images/portfolio.png",
@@ -73,18 +73,6 @@ export const projectsList = [
   },
   {
     id: 7,
-    name: "MinilibC",
-    description:
-        "create a dynamic ELF library to replace (to a certain extent) the standard C library you use every day on your system.",
-    image: "/images/libc.png",
-    mobileImage: "/images/libc_small.png",
-    link: "https://github.com/TheoParamelle/libC",
-    GitHub: "https://github.com/TheoParamelle/libC",
-    project: "libc",
-    tools: ["Assembly", "Makefile"],
-  },
-  {
-    id: 6,
     name: "Sophro-Diet-Consult",
     description:
         "Website develop with a an editor, Performance monitoring with Google Analytics, SEO optimization, and training of staff on different software",
@@ -96,7 +84,19 @@ export const projectsList = [
     tools: ["HTML", "CSS"],
   },
   {
-    id: 7,
+    id: 8,
+    name: "MinilibC",
+    description:
+        "create a dynamic ELF library to replace (to a certain extent) the standard C library you use every day on your system.",
+    image: "/images/libc.png",
+    mobileImage: "/images/libc_small.png",
+    link: "https://github.com/TheoParamelle/libC",
+    GitHub: "https://github.com/TheoParamelle/libC",
+    project: "libc",
+    tools: ["Assembly", "Makefile"],
+  },
+  {
+    id: 9,
     name: "Jetpack2tek3",
     description:
         "The goal of this project is to create a game like Jetpack Joyride. There are two parts: the game server and the client program.",
@@ -108,7 +108,7 @@ export const projectsList = [
     tools: ["C", "CSFML", "pthread"],
   },
   {
-    id: 8,
+    id: 10,
     name: "AbstractVM",
     description:
         "The goal of this project is to create a simple virtual machine that is able to interpret programs that are written in a simplified assembler language",
