@@ -52,7 +52,7 @@ export default function Project({ children, pageTitle, description }) {
             </li>
             <li>
               <motion.a
-                href="https://github.com/ThéoParamelle"
+                href="https://github.com/TheoParamelle"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
