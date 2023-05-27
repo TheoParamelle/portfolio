@@ -207,7 +207,7 @@ export default function Home({ project }) {
               <ul className="nav-list">
                 <li>
                   <motion.a
-                    href="https://drive.google.com/file/d/1CNIQy3iCQDgrR_uUuhe7XNP7LemzcFgp/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1eREDluqf4DrxUfmo_arw0uEP4ni3ztJQ/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: 1.1 }}
@@ -354,7 +354,7 @@ export default function Home({ project }) {
           <ul className="footer-links">
             <li>
               <motion.a
-                href="https://drive.google.com/file/d/1CNIQy3iCQDgrR_uUuhe7XNP7LemzcFgp/view?usp=sharing"
+                href="https://drive.google.com/file/d/1eREDluqf4DrxUfmo_arw0uEP4ni3ztJQ/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
